@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExamenWashingtonBriones3B.Profesor">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAIAAAAAAAAAEAEACQgAAAgBAAAAIAAAAAAAEAAI=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenWashingtonBriones3B.Profesorporhoras">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Profesorporhoras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenWashingtonBriones3B.Profesorporcontrato">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Profesorporcontrato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenWashingtonBriones3B.Profesorconnombramiento">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ExamenWashingtonBriones3B.Profesorconnombramiento.profesorconnombramiento" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Profesorconnombramiento.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profesorconnombramiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamenWashingtonBriones3B.CalculodeSueldo">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ExamenWashingtonBriones3B.CalculodeSueldo.CalculodeSueldo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CalculodeSueldo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CalculodeSueldo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
